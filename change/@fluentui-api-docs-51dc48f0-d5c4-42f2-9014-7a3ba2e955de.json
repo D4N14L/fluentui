@@ -1,0 +1,7 @@
+{
+  "type": "patch",
+  "comment": "Update API-Extractor to version that produces correct output for some projects",
+  "packageName": "@fluentui/api-docs",
+  "email": "danade@microsoft.com_odspmdb",
+  "dependentChangeType": "patch"
+}
